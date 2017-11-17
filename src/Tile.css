@@ -1,0 +1,10 @@
+.tile {
+	width: 30%;
+	height: 100px;
+	background: dodgerblue;
+	border: 5px solid black;
+	float: left;
+	display:inline-block;
+	text-align: center;
+	line-height: 150px;	
+}
